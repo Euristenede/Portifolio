@@ -23,90 +23,90 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="static/assets/img/portfolio/web/Templates/portifolio.png" class="img-fluid" alt="">
+              <img src="static/assets/img/portfolio/web/Templates/portifolio.png" 
+                   class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="static/assets/img/portfolio/web/Templates/portifolio.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="static/assets/img/portfolio/web/Templates/portifolio.png" 
+                   data-gallery="portfolioGallery" 
+                   class="portfolio-lightbox" 
+                   title="Portifolio">
+                   <i class="bx bx-plus"/>
+                </a>
+                <a href="https://github.com/Euristenede/Portifolio" title="Repositório" target="_blank">
+                  <i class="bx bx-link"/>
+                </a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-desktop">
             <div class="portfolio-wrap">
-              <img src="static/assets/img/portfolio/desktop/Financeiro-Pessoal/index.png" class="img-fluid" alt="">
+              <img src="static/assets/img/portfolio/desktop/Financeiro-Pessoal/index.png" 
+                   class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="static/assets/img/portfolio/desktop/Financeiro-Pessoal/index.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="static/assets/img/portfolio/desktop/Financeiro-Pessoal/index.png" 
+                   data-gallery="portfolioGallery" 
+                   class="portfolio-lightbox" 
+                   title="Fluxo Caixa">
+                   <i class="bx bx-plus"/>
+                  </a>
+                <a href="https://github.com/Euristenede/ControleFinanceiro"  title="Repositório" target="_blank">
+                  <i class="bx bx-link"/>
+                </a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="static/assets/img/portfolio/web/Rede-Social/index.png" class="img-fluid" alt="">
+              <img src="static/assets/img/portfolio/web/Rede-Social/index.png" 
+                   class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="static/assets/img/portfolio/web/Rede-Social/index.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="static/assets/img/portfolio/web/Rede-Social/index.png" 
+                   data-gallery="portfolioGallery" 
+                   class="portfolio-lightbox" 
+                   title="Rede Social">
+                   <i class="bx bx-plus"/>
+                  </a>
+                <a href="https://github.com/Euristenede/RedeSocial-VueJs" title="Repositório" target="_blank">
+                  <i class="bx bx-link"/>
+                </a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-desktop">
             <div class="portfolio-wrap">
-              <img src="static/assets/img/portfolio/desktop/Fluxo-Caixa/index.png" class="img-fluid" alt="">
+              <img src="static/assets/img/portfolio/desktop/Fluxo-Caixa/index.png" 
+                   class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="static/assets/img/portfolio/desktop/Fluxo-Caixa/index.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="static/assets/img/portfolio/desktop/Fluxo-Caixa/index.png" 
+                   data-gallery="portfolioGallery" 
+                   class="portfolio-lightbox" 
+                   title="Controle Transportes">
+                   <i class="bx bx-plus"/>
+                </a>
+                <a href="https://github.com/Euristenede/FluxoCaixa" title="Repositório" target="_blank">
+                  <i class="bx bx-link"/>
+                </a>
               </div>
             </div>
           </div>
-          <!--
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="static/assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="static/assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-          </div>-->
-          
+                    
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="static/assets/img/portfolio/web/Templates/ainair.png" class="img-fluid" alt="">
+              <img src="static/assets/img/portfolio/web/Templates/afro.png" 
+                   class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="static/assets/img/portfolio/web/Templates/ainair.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-          </div>
-          <!--
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="static/assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="static/assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="static/assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="static/assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-          </div>-->
-          
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-wrap">
-              <img src="static/assets/img/portfolio/web/Templates/restaurante.png" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="static/assets/img/portfolio/web/Templates/restaurante.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="static/assets/img/portfolio/web/Templates/afro.png" 
+                   data-gallery="portfolioGallery" 
+                   class="portfolio-lightbox" 
+                   title="Afroandlisokris">
+                   <i class="bx bx-plus"/>
+                </a>
+                <a href="https://afroandlisokris.com.br/" title="Site" target="_blank">
+                  <i class="bx bx-link"/>
+                </a>
               </div>
             </div>
           </div>

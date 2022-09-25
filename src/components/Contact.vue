@@ -15,7 +15,7 @@
               <div class="address">
                 <i class="bi bi-geo-alt"></i>
                 <h4>Localização:</h4>
-                <p>Toledo PR</p>
+                <p>Cascavel PR</p>
               </div>
 
               <div class="email">
@@ -30,7 +30,12 @@
                 <p>+55 45 9 9124-5335</p>
               </div>
 
-              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d48757.67264605453!2d-53.76093116861408!3d-24.729087625494607!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94f39625c9aa06b9%3A0xaa4c447b0af0271b!2sToledo%2C%20PR!5e0!3m2!1spt-BR!2sbr!4v1622852990066!5m2!1spt-BR!2sbr" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3617.3689415885674!2d-53.45950778591923!3d-24.953559184010054!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94f3d4129a67f8ab%3A0xe35fcb3d3446a402!2sR.%20Souza%20Naves%2C%204044%20-%20Parque%20S%C3%A3o%20Paulo%2C%20Cascavel%20-%20PR%2C%2085810-070!5e0!3m2!1spt-BR!2sbr!4v1664141312998!5m2!1spt-BR!2sbr" 
+                      frameborder="0" 
+                      style="border:0; 
+                      width: 100%; 
+                      height: 290px;" 
+                      allowfullscreen/>
             </div>
 
           </div>
