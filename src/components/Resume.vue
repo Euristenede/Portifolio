@@ -10,29 +10,26 @@
 
         <div class="row">
           <div class="col-lg-6" data-aos="fade-up">
-            <h3 class="resume-title">Sumário</h3>
-            <div class="resume-item pb-0">
-              <h4>Euristenede Santos</h4>
-              <p><em>Desenvolvedor desktop e Web com mais de 7 anos de esperiência em desenvolvimento de ERP e aplicações Web.</em></p>
-              <ul>
-                <li>Toledo PR</li>
-                <li>+55 45 9 9124-5335</li>
-                <li>euristenedesantos@gmail.com</li>
-              </ul>
-            </div>
-
-            <h3 class="resume-title">Educação</h3>
+            <h3 class="resume-title">Formação</h3>
             <div class="resume-item">
               <h4>Bacharelado em Ciência da Computação</h4>
               <h5>2016 - 2021</h5>
               <p><em>Universidade Tecnológica Federal do Paraná</em></p>
-              <p style="text-align: justify;">O curso de Bacharelado em Ciência da Computação habilita profissionais com conhecimentos nas áreas da computação a desenvolver soluções que envolvam a integração de hardware e software, com perspectiva de aplicação desses conceitos em áreas relacionadas à necessidade regional, nacional e internacional.</p>
+              <p>
+                O curso de Bacharelado em Ciência da Computação habilita profissionais com conhecimentos nas áreas da 
+                computação a desenvolver soluções que envolvam a integração de hardware e software, com perspectiva de 
+                aplicação desses conceitos em áreas relacionadas à necessidade regional, nacional e internacional.
+              </p>
             </div>
             <div class="resume-item">
               <h4>Técnico em Informática</h4>
               <h5>2014 - 2015</h5>
               <p><em>Instituto Federal Goiano</em></p>
-              <p style="text-align: justify;">O Curso Técnico em Informática habilita o profissional com conhecimentos técnicos gerais que lhes permitam executar atividades relacionadas ao desenvolvimento de softwares e a manutenção e configuração de redes de computadores, a fim de possibilitar o ingresso no mercado de trabalho de um cidadão profissional qualificado.</p>
+              <p>O Curso Técnico em Informática habilita o profissional com conhecimentos 
+                técnicos gerais que lhes permitam executar atividades relacionadas ao desenvolvimento de softwares e a 
+                manutenção e configuração de redes de computadores, a fim de possibilitar o ingresso no mercado de 
+                trabalho de um cidadão profissional qualificado.
+              </p>
             </div>
           </div>
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">

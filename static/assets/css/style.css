@@ -156,7 +156,7 @@ h1, h2, h3, h4, h5, h6 {
   display: flex;
   align-items: center;
   color: #a8a9b4;
-  padding: 12px 15px;
+  padding: 8px 15px;
   margin-bottom: 8px;
   transition: 0.3s;
   font-size: 15px;
@@ -317,6 +317,14 @@ section {
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
+.about p {
+  text-align: justify;
+}
+
+.about .img-fluid {
+  border-radius: 5px;
+}
+
 .about .content h3 {
   font-weight: 700;
   font-size: 26px;
@@ -437,6 +445,10 @@ section {
   background-color: #149ddd;
 }
 
+.skills p {
+  text-align: justify;
+}
+
 /*--------------------------------------------------------------
 # Resume
 --------------------------------------------------------------*/
@@ -496,6 +508,10 @@ section {
   top: 0;
   background: #fff;
   border: 2px solid #1f5297;
+}
+
+.resume .resume-item p {
+  text-align: justify;
 }
 
 /*--------------------------------------------------------------

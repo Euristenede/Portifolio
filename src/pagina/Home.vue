@@ -1,17 +1,17 @@
 <template>
   <div>
-    <Header></Header>
-    <Hero></Hero>
+    <Header/>
+    <Hero/>
     <main id="main">
-      <About></About>
-      <Skills></Skills>
-      <Resume></Resume>
-      <Portifolio></Portifolio>
-      <Services></Services>
+      <About/>
+      <Skills/>
+      <Resume/>
+      <Portifolio/>
+      <Services/>
       <!--<Testimonials></Testimonials>-->
-      <Contact></Contact>
+      <Contact/>
     </main>
-    <Footer></Footer>
+    <Footer/>
   </div>
 </template>
 
