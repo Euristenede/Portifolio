@@ -16,7 +16,7 @@
 
         <div class="row">
           <div class="col-lg-4" data-aos="fade-right">
-            <img src="static/assets/img/perfil1.png" class="img-fluid">
+            <img src="static/assets/img/perfil4.png" class="img-fluid">
           </div>
           <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
             <h3>Desenvolvedor de Software &amp; Empreendedor.</h3>
@@ -39,10 +39,10 @@
               </div>
             </div>
             <p>
-              Dentro da minha atuação profissional estou em constante desenvolvimento, com foco em aprender 
-              novas tecnologias, novos métodos de trabalho, compartilhar conhecimento, desenvolver soluções 
+              Dentro da minha atuação profissional estou em constante desenvolvimento, focado em aprender 
+              novas tecnologias e modelos de trabalho, compartilhar conhecimento, desenvolver soluções 
               inovadoras e transformar a vida das pessoas por meio da tecnologia. Procuro ser um profissional 
-              de excelência entregando sempre os melhores resultados.
+              de excelência com os melhores resultados.
             </p>
           </div>
         </div>

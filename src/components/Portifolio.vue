@@ -14,6 +14,7 @@
               <li data-filter="*" class="filter-active">Tudo</li>
               <li data-filter=".filter-desktop">Desktop</li>
               <li data-filter=".filter-web">Web</li>
+              <li data-filter=".filter-mobile">Mobile</li>
               <!--<li data-filter=".filter-card">Mobile</li>-->
             </ul>
           </div>
@@ -92,7 +93,25 @@
               </div>
             </div>
           </div>
-                    
+               
+          <div class="col-lg-4 col-md-6 portfolio-item filter-mobile">
+            <div class="portfolio-wrap">
+              <img src="static/assets/img/portfolio/mobile/vakinha.png" 
+                   class="img-fluid" alt="">
+              <div class="portfolio-links">
+                <a href="static/assets/img/portfolio/mobile/vakinha.png" 
+                   data-gallery="portfolioGallery" 
+                   class="portfolio-lightbox" 
+                   title="Controle Transportes">
+                   <i class="bx bx-plus"/>
+                </a>
+                <a href="https://github.com/Euristenede/VakinhaBurger" title="Repositório" target="_blank">
+                  <i class="bx bx-link"/>
+                </a>
+              </div>
+            </div>
+          </div>
+          
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
               <img src="static/assets/img/portfolio/web/Templates/afro.png" 

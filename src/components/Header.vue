@@ -6,7 +6,7 @@
     <header id="header">
       <div class="d-flex flex-column">
         <div class="profile">
-          <img src="static/assets/img/perfil2.png" class="img-fluid rounded-circle">
+          <img src="static/assets/img/perfil4.png" class="img-fluid rounded-circle">
           <h1 class="text-light">
             <a href="index.html">Euristenede Santos</a>
           </h1>
@@ -42,6 +42,12 @@
               <a href="#about" class="nav-link scrollto">
                 <i class="bx bx-user"/>
                 <span>Perfil</span>
+              </a>
+            </li>
+            <li>
+              <a href="#skills" class="nav-link scrollto">
+                <i class="bx bx-bar-chart"/>
+                <span>Habilidades</span>
               </a>
             </li>
             <li>
